@@ -1,11 +1,12 @@
 # CELL Features
 
-**CELL: The ONLY PS3 Social Media Application.** Everything Cell can do as of version 1.1.2.
+**CELL: The ONLY PS3 Social Media Application.** Everything Cell can do as of version 1.1.3.
 
 ## Your account
 - **Claim a unique username.** Only one person can have each name. You can also show your PSN ID on your profile, or keep it hidden.
 - **No sign-in hassle.** Pick a name once and Cell remembers you.
 - **Your account survives a reinstall.** It's backed up on your PS3 and linked to your console, so deleting Cell, or even swapping the hard drive, doesn't lose it.
+- **Lost access? Get it back.** Cell staff can give you a one-time recovery code: choose "I already have an account" and type it in.
 - **Automatic updates.** Cell tells you when a new version is out and can download it for you.
 
 ## Profiles
@@ -21,7 +22,8 @@
 - **Post text, screenshots and GIFs.**
 - **Four feeds:** Everyone, Following, My games and Mentions. Switch with L1/R1.
 - **GG** (like) and **comment** on posts, and **@mention** other players.
-- **GIF search** built in, plus emoji shortcodes like `:fire:` and `:gg:`.
+- **1,384 emoji** in nine tabs (Popular, Faces, People, Animals, Food, Travel, Activities, Objects, Symbols), each with a shortcode you can type, like `:fire:` or `:pizza:`.
+- **GIF search** built in.
 - **Use your own pictures and GIFs** from `/dev_hdd0/photo` (send them over FTP) or a USB drive.
 - **View pictures full screen** with R3.
 
@@ -70,6 +72,7 @@
 - **30 accent colours and animated backgrounds,** including an RGB flow.
 - **Fast pictures:** images are saved on your hard drive, so they load instantly next time.
 - **Join the official Discord** by scanning a QR code with your phone.
+- **A fresh look on the XMB:** a transparent Cell thumbnail, and a background that changes every time you start Cell.
 - **Works on CFW and PS3HEN.**
 
 ---
