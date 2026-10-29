@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/cell-logo.png" alt="CELL. The only PS3 social media" width="560"></p>
+
 # CELL: The ONLY PS3 Social Media Application
 
 **Cell** is a homebrew social app for the PlayStation 3. Make friends, post, comment, share screenshots and GIFs, chat, and find people to play revived online games with, all from your PS3.
