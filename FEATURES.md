@@ -1,6 +1,6 @@
 # CELL Features
 
-**CELL: The ONLY PS3 Social Media Application.** Everything CELL can do as of version 1.1.3.
+**CELL: The ONLY PS3 Social Media Application.** Everything CELL can do as of version 1.1.4.
 
 ## Your account
 - **Claim a unique username.** Only one person can have each name. You can also show your PSN ID on your profile, or keep it hidden.
@@ -53,6 +53,7 @@
 
 ## Friends and finding players
 - **Friends and followers**, with an online / offline list on the Feed.
+- **See how many players are on CELL** right on the Feed.
 - **Find players** by name.
 - **Notifications** for GGs, comments, mentions, friend requests, wall posts and messages.
 
@@ -65,9 +66,11 @@
 - **Block players.** It works both ways: you won't see each other anywhere on CELL, and they aren't told.
 - **Report** posts, comments, messages and players.
 - **Active moderation** with a word filter, mutes and bans.
+- **Public bans:** a red bar on a banned player's profile shows how long they're banned and why. Banned players show as offline.
 - **Clear rules,** shown in the app.
 
 ## Made for the PS3
+- **6 languages:** English, Spanish, Portuguese, French, German and Italian. CELL follows your PS3's language, or pick one in Settings.
 - **Full controller navigation,** with button hints on every screen.
 - **30 accent colours and animated backgrounds,** including an RGB flow.
 - **Fast pictures:** images are saved on your hard drive, so they load instantly next time.

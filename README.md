@@ -36,8 +36,8 @@ This is the official page for CELL. **Download CELL only from the [Releases](../
 
 Each release lists the **SHA-256** checksum of every PKG. To check yours:
 
-- **Windows (PowerShell):** `Get-FileHash .\CELL-1.1.3-CFW.pkg -Algorithm SHA256`
-- **macOS / Linux:** `shasum -a 256 CELL-1.1.3-CFW.pkg`
+- **Windows (PowerShell):** `Get-FileHash .\CELL-1.1.4-CFW.pkg -Algorithm SHA256`
+- **macOS / Linux:** `shasum -a 256 CELL-1.1.4-CFW.pkg`
 
 If the numbers don't match the release page, delete the file and download it again from here.
 
@@ -55,7 +55,8 @@ CELL tells you when a new version is out and can download it for you. If you mis
 - **Global Chat:** one big chat for everyone on CELL, with "is typing...".
 - **Play Online:** 90+ PS3 games kept alive by fan revival servers. Each has DNS steps, "It worked / It's broken" reports and game nights.
 - **Friends, Find players, Notifications and News**, plus 30 colours and animated backgrounds.
-- **Safety:** reporting, blocking, and staff moderation.
+- **6 languages:** English, Spanish, Portuguese, French, German and Italian, picked from your PS3's language.
+- **Safety:** reporting, blocking, staff moderation and public bans.
 
 See the **[full feature list](FEATURES.md)**, and **[CHANGELOG.md](CHANGELOG.md)** for everything that's changed in each version.
 
