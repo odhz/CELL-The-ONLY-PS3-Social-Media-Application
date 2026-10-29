@@ -9,10 +9,10 @@
 - **1,384 emoji.** The emoji picker went from 172 to 1,384: every single emoji on a phone keyboard (skin tones and flags aside).
   - Tabs like a phone: **Popular** (the old favourites), Faces, People, Animals, Food, Travel, Activities, Objects and Symbols. L1/R1 switches tabs.
   - Every emoji has a shortcode you can type, like `:pizza:`, `:upside_down_face:` or `:ferris_wheel:`. All the old ones still work.
-- **Lost access to your account? Get it back with a recovery code.** On the "Create your username" screen there's a new **I already have an account** option. Ask Cell staff on Discord for a recovery code, type it in, and you're back in with all your posts and friends. That PS3 is then linked to your account, so reinstalling Cell there signs you in by itself again.
+- **Lost access to your account? Get it back with a recovery code.** On the "Create your username" screen there's a new **I already have an account** option. Ask CELL staff on Discord for a recovery code, type it in, and you're back in with all your posts and friends. That PS3 is then linked to your account, so reinstalling CELL there signs you in by itself again.
 - **New XMB look.**
-  - The Cell thumbnail has a **transparent background**, so "CELL." stands out on any XMB theme.
-  - The picture behind the XMB when Cell is highlighted **changes every time you start Cell**: six different Cell screens.
+  - The CELL thumbnail has a **transparent background**, so "CELL." stands out on any XMB theme.
+  - The picture behind the XMB when CELL is highlighted **changes every time you start CELL**: six different CELL screens.
 
 ### For staff (owner only)
 
@@ -85,7 +85,7 @@
   - Press ✕ to cycle through **Automatic** (your highest badge) and each badge you have. The row shows a preview of your name with that badge.
   - Your pick shows everywhere: the feed, comments, Global Chat, Messages and your profile.
   - Your profile banner still shows all your badges.
-- **Console on profiles.** Profiles now show which console a player is on: a **PS3** tag next to Online. Cell fills this in by itself, so there's nothing to set up.
+- **Console on profiles.** Profiles now show which console a player is on: a **PS3** tag next to Online. CELL fills this in by itself, so there's nothing to set up.
 
 ---
 
@@ -98,7 +98,7 @@
 - **Delivered and Seen.** Your last message in a conversation shows **✓ Delivered**, then **✓✓ Seen** once they've opened it.
   - Message requests stay private: someone who hasn't accepted your request yet only ever shows "Delivered".
 - **Three new badges:**
-  - **Creator:** for people who make videos, streams or art about Cell or the PS3
+  - **Creator:** for people who make videos, streams or art about CELL or the PS3
   - **Revival Dev:** for members of the groups keeping PS3 games online
   - **Bug Hunter:** for players who reported a real bug that got fixed
 
@@ -129,12 +129,12 @@
 
 ### New: 90+ games in Play Online
 
-Every game has its own page with the DNS steps filled in, "It worked / It's broken" reports, game nights and who on Cell owns it.
+Every game has its own page with the DNS steps filled in, "It worked / It's broken" reports, game nights and who on CELL owns it.
 
 - **PS Rewired:** Killzone 2, Killzone 3, MotorStorm, MotorStorm: Pacific Rift, MotorStorm: Apocalypse, Resistance: Fall of Man, **Resistance 2 (back in 2026!)**, NBA 07, Call of Duty: World at War
 - **PSONE:** SOCOM Confrontation, Calling All Cars!, Pain, Ratchet: Deadlocked, WipEout HD
 - **Warhawk Revived:** Warhawk, **Starhawk**
-- **PS Reborn (32 games):** Guitar Hero III, World Tour, 5, Metallica, Aerosmith, Van Halen, Smash Hits and Warriors of Rock, Band Hero, Far Cry 3, Ghost Recon Advanced Warfighter 2 and Future Soldier, Splinter Cell: Double Agent, EndWar, Call of Duty 3, GRID, DiRT, Haze, Singularity, Wolfenstein, Ghostbusters, Stranglehold, Blood Stone, Quantum of Solace, Avatar, BlackSite, Operation Flashpoint: Dragon Rising, The Club, Stuntman: Ignition, Shaun White Skateboarding and Snowboarding, Battle for the Pacific
+- **PS Reborn (32 games):** Guitar Hero III, World Tour, 5, Metallica, Aerosmith, Van Halen, Smash Hits and Warriors of Rock, Band Hero, Far Cry 3, Ghost Recon Advanced Warfighter 2 and Future Soldier, Splinter CELL: Double Agent, EndWar, Call of Duty 3, GRID, DiRT, Haze, Singularity, Wolfenstein, Ghostbusters, Stranglehold, Blood Stone, Quantum of Solace, Avatar, BlackSite, Operation Flashpoint: Dragon Rising, The Club, Stuntman: Ignition, Shaun White Skateboarding and Snowboarding, Battle for the Pacific
 - **More community servers:** Blur, DJ Hero 1 and 2, five Transformers games, Burnout Paradise, Driver: San Francisco, Ratchet & Clank Collection, Medal of Honor, WWE 2K14, Fuel, Need for Speed: Carbon
 - **Groups with their own setup guides:** ModNation Racers Revival, Refresh (LittleBigPlanet), Destination Home (PlayStation Home)
 - **In testing (follow them to get a bell when they go live):** MAG, Metal Gear Online 2. Eleven more only work on the PC emulator for now: Battlefield: Bad Company 2, Skate 3, Demon's Souls, Modern Warfare 2, NHL 14 and others.
@@ -191,7 +191,7 @@ Revival servers are run by fan groups, not Sony. The new entries come from the g
 
 ### Fixed
 
-- **If Cell's saved sign-in stops working,** Cell now looks up your account on this PS3 before sending you to sign-up.
+- **If CELL's saved sign-in stops working,** CELL now looks up your account on this PS3 before sending you to sign-up.
 
 ### For staff
 
@@ -219,32 +219,32 @@ Revival servers are run by fan groups, not Sony. The new entries come from the g
 
 - **Pictures load almost instantly.**
   - Box art, screenshots, GIFs, profile pictures and news images are saved on your PS3's hard drive, so they show straight away next time, even after a restart.
-  - Cell downloads three pictures at once instead of one.
+  - CELL downloads three pictures at once instead of one.
   - Pictures start loading before you scroll to them: the Feed, Global Chat, profiles, game pages, your library, Play Online and News.
   - The server fetches a game's box art the moment you look at it, instead of waiting in line.
-- **Your account survives deleting Cell.**
-  - Deleting Cell from the XMB used to log you out for good, so reinstalling meant making a new account. Now Cell remembers you two ways: a backup copy on the PS3 that a reinstall picks right up, and a link between your account and your console on the server.
-  - Even after a formatted or new hard drive, starting Cell says **"Welcome back, <name>: your account is restored."**
+- **Your account survives deleting CELL.**
+  - Deleting CELL from the XMB used to log you out for good, so reinstalling meant making a new account. Now CELL remembers you two ways: a backup copy on the PS3 that a reinstall picks right up, and a link between your account and your console on the server.
+  - Even after a formatted or new hard drive, starting CELL says **"Welcome back, <name>: your account is restored."**
   - Your console is identified by a scrambled code; your PSID itself never leaves the PS3.
   - Existing accounts get linked the first time you open 1.0.5.
 
 ### Fixed
 
-- **The app and the server always match now.** Mismatched versions were causing problems. From now on, when a new release is out, Cell shows an "Update to Cell X" screen with a Download button. Your account, posts and friends stay safe on the server.
-  - **Heads-up:** older versions of Cell can't show this screen. If you're on an older version, accept the update offer when Cell starts (or install 1.0.5 from Package Manager). Every update after this one arrives automatically.
+- **The app and the server always match now.** Mismatched versions were causing problems. From now on, when a new release is out, CELL shows an "Update to CELL X" screen with a Download button. Your account, posts and friends stay safe on the server.
+  - **Heads-up:** older versions of CELL can't show this screen. If you're on an older version, accept the update offer when CELL starts (or install 1.0.5 from Package Manager). Every update after this one arrives automatically.
 
 ### For staff
 
 - **Updates → Release sync card.**
   - Shows the server version next to the PS3 app version, marked **In sync** or **Out of sync**.
   - A switch decides whether older PS3s *must* update.
-  - A chart shows which Cell versions players used in the last 24 hours.
+  - A chart shows which CELL versions players used in the last 24 hours.
   - Publishing a PKG whose number doesn't match the server asks you to confirm first.
 - **Discord → "Official Discord on the PS3":** paste your invite link here to turn on the QR codes. Only Discord invite links are accepted. Set the invite to never expire.
-- **Console bans got stronger.** Banning a console now bans the real console, so deleting and reinstalling Cell can't dodge it.
+- **Console bans got stronger.** Banning a console now bans the real console, so deleting and reinstalling CELL can't dodge it.
 
 ### Housekeeping
 
-- Cell is proprietary, closed-source software: © 2026 Dehz, all rights reserved. The license is in the package, and Settings shows "© 2026 Dehz".
+- CELL is proprietary, closed-source software: © 2026 Dehz, all rights reserved. The license is in the package, and Settings shows "© 2026 Dehz".
 
 ---

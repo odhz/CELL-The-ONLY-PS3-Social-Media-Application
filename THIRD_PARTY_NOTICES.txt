@@ -1,4 +1,4 @@
-Cell uses the following third-party components. Each remains under its own license.
+CELL uses the following third-party components. Each remains under its own license.
 
 - PSL1GHT (PS3 SDK) and its stub generator — MIT License, Copyright (c) 2011 PSL1GHT
   Development Team. Full text: client/licenses/PSL1GHT-LICENSE

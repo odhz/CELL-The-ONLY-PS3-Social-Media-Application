@@ -28,7 +28,7 @@
 
 ## Fixed
 
-- **If Cell's saved sign-in stops working,** Cell now looks up your account on this PS3 before sending you to sign-up.
+- **If CELL's saved sign-in stops working,** CELL now looks up your account on this PS3 before sending you to sign-up.
 
 ## For staff
 

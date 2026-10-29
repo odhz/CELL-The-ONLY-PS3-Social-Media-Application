@@ -7,7 +7,7 @@
 - **Delivered and Seen.** Your last message in a conversation shows **✓ Delivered**, then **✓✓ Seen** once they've opened it.
   - Message requests stay private: someone who hasn't accepted your request yet only ever shows "Delivered".
 - **Three new badges:**
-  - **Creator:** for people who make videos, streams or art about Cell or the PS3
+  - **Creator:** for people who make videos, streams or art about CELL or the PS3
   - **Revival Dev:** for members of the groups keeping PS3 games online
   - **Bug Hunter:** for players who reported a real bug that got fixed
 
