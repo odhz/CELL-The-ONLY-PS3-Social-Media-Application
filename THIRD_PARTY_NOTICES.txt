@@ -1,0 +1,20 @@
+Cell uses the following third-party components. Each remains under its own license.
+
+- PSL1GHT (PS3 SDK) and its stub generator — MIT License, Copyright (c) 2011 PSL1GHT
+  Development Team. Full text: client/licenses/PSL1GHT-LICENSE
+- tiny3D — (c) 2010 Hermes; distributed under the same terms as PSL1GHT (MIT).
+- cJSON — MIT License, Copyright (c) 2009-2017 Dave Gamble and cJSON contributors.
+  Full text: client/licenses/cJSON-LICENSE
+- FreeType — Portions of this software are copyright (c) The FreeType Project
+  (www.freetype.org). All rights reserved. Used under the FreeType License (FTL).
+- libjpeg — This software is based in part on the work of the Independent JPEG Group.
+- libpng — Copyright (c) the PNG Reference Library Authors; used under the PNG Reference
+  Library License.
+- zlib — Copyright (c) Jean-loup Gailly and Mark Adler; used under the zlib License.
+- Inter typeface — Copyright (c) 2016 The Inter Project Authors. SIL Open Font License 1.1.
+  Full text: client/licenses/Inter-OFL.txt
+- Noto Color Emoji — Copyright 2013 Google LLC. SIL Open Font License 1.1.
+  Full text: client/licenses/NotoColorEmoji-OFL.txt
+- GIF search is powered by GIPHY.
+- Box art: public PS3 cover collections (aldostools/resources, GameTDB); news: the linked
+  publishers' feeds. Their content belongs to their owners.

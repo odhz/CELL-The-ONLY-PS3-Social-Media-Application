@@ -1,0 +1,227 @@
+# CELL Changelog
+
+**CELL: The ONLY PS3 Social Media!** Newest release first. The latest version is **1.1.2**.
+
+## CELL 1.1.2 Patch Notes: custom GIFs and easier menus
+
+### New
+
+- **Use your own GIFs as your profile picture.** Put a .gif in **/dev_hdd0/photo** (over FTP) or on a USB drive, then go to Settings → Profile picture → **Your photos**. Your GIFs are listed first and show a real preview.
+
+### Fixed
+
+- **GIFs in the picture picker.** GIFs used to say "Can't open" in the picker. They now show their first frame like any other picture.
+- **Play Online game pages are easier to use.** Use **left and right** to move between **It worked**, **It's broken** and **Plan a game night**, and up and down to move within a column. Before, only up and down worked, which wasn't obvious.
+- **Settings:** the "APP" heading no longer floats between Blocked players and Colours & background.
+
+### Improved
+
+- The picker now lists up to 500 pictures (was 200), so big photo folders don't hide your newest files.
+
+---
+
+## CELL 1.1.1 Patch Notes: animated profile pictures
+
+### New
+
+- **GIF profile pictures.** Your profile picture can now be an animated GIF. It plays everywhere your picture shows: your profile, the feed, comments, Global Chat, Messages, Friends, Find players and the top bar.
+- **Search GIFs for your picture.** Settings → Profile picture → **Search GIFs**, pick one and press ✕ "Set as my picture".
+- **Or use your own GIF.** Settings → Profile picture → **Your photos**, then pick a .gif you sent over FTP or put on a USB drive (up to 3 MB). The preview shows a GIF tag so you know it will animate.
+
+### Good to know
+
+- GIFs are cut to a circle from the middle, just like normal pictures.
+- Banners stay still pictures.
+- To keep things smooth, up to 10 animated pictures play at once on screen. Any others show their first frame.
+
+### For staff
+
+- Animated profile pictures show up on the Staff site like any other picture, and **Remove picture** works the same way.
+
+---
+
+## CELL 1.1.0 Patch Notes: Block players
+
+### New
+
+- **Block players.** Open a profile, press **SELECT → Block**, and confirm.
+  - **Hidden both ways:** you won't see each other's posts, comments, wall posts, Global Chat messages or "is typing".
+  - **No contact:** neither of you can message, follow, friend, GG, comment on or write on the other's wall.
+  - **Links removed:** any friendship, friend request and follows between you are removed, and no notifications go between you.
+  - **Out of each other's lists:** they disappear from your Find players and game player lists, and your Messages conversation with them goes away.
+  - **They aren't told.** To them, your profile simply can't be found.
+- **Blocked players list:** Settings → Blocked players. Press ✕ twice to unblock someone. Unblocking doesn't bring back a friendship or follows.
+
+---
+
+## CELL 1.0.9 Patch Notes: pick your badge
+
+### New
+
+- **Choose your badge.** Got more than one badge? Pick which one shows next to your name: **Settings → Badge next to my name**.
+  - Press ✕ to cycle through **Automatic** (your highest badge) and each badge you have. The row shows a preview of your name with that badge.
+  - Your pick shows everywhere: the feed, comments, Global Chat, Messages and your profile.
+  - Your profile banner still shows all your badges.
+- **Console on profiles.** Profiles now show which console a player is on: a **PS3** tag next to Online. Cell fills this in by itself, so there's nothing to set up.
+
+---
+
+## CELL 1.0.8 Patch Notes: typing, Seen and badge icons
+
+### New
+
+- **"Is typing..." in Global Chat.** When someone is writing a message, you'll see it under the chat with bouncing dots: "NateDrake and KaiZ are typing..."
+- **Typing in Messages too.** You can see when the person you're talking to is typing.
+- **Delivered and Seen.** Your last message in a conversation shows **✓ Delivered**, then **✓✓ Seen** once they've opened it.
+  - Message requests stay private: someone who hasn't accepted your request yet only ever shows "Delivered".
+- **Three new badges:**
+  - **Creator:** for people who make videos, streams or art about Cell or the PS3
+  - **Revival Dev:** for members of the groups keeping PS3 games online
+  - **Bug Hunter:** for players who reported a real bug that got fixed
+
+### Improved
+
+- **Every badge has an icon now:**
+  - 👑 Owner: a crown
+  - 🛡️ Admin: a shield
+  - $ Donator: a money sign
+  - 📣 Promoter: a megaphone
+  - ⚗️ Beta-Tester: a lab flask
+  - 📺 Creator: a TV
+  - ➕ Revival Dev: a medic cross
+  - 🐞 Bug Hunter: a beetle
+- **The Owner badge is red,** and so is the owner's name.
+- **Lots of badges?** When they don't all fit on a profile banner, the most important ones show first.
+
+### For staff
+
+- **Give the new badges** on the Staff site: Badges, or a player's page.
+- **The Staff site shows the same badge icons** as the PS3.
+
+---
+
+## CELL 1.0.7 Patch Notes: 90+ games in Play Online
+
+**CELL: The ONLY PS3 Social Media!** Play Online just went from 13 games to 92.
+
+### New: 90+ games in Play Online
+
+Every game has its own page with the DNS steps filled in, "It worked / It's broken" reports, game nights and who on Cell owns it.
+
+- **PS Rewired:** Killzone 2, Killzone 3, MotorStorm, MotorStorm: Pacific Rift, MotorStorm: Apocalypse, Resistance: Fall of Man, **Resistance 2 (back in 2026!)**, NBA 07, Call of Duty: World at War
+- **PSONE:** SOCOM Confrontation, Calling All Cars!, Pain, Ratchet: Deadlocked, WipEout HD
+- **Warhawk Revived:** Warhawk, **Starhawk**
+- **PS Reborn (32 games):** Guitar Hero III, World Tour, 5, Metallica, Aerosmith, Van Halen, Smash Hits and Warriors of Rock, Band Hero, Far Cry 3, Ghost Recon Advanced Warfighter 2 and Future Soldier, Splinter Cell: Double Agent, EndWar, Call of Duty 3, GRID, DiRT, Haze, Singularity, Wolfenstein, Ghostbusters, Stranglehold, Blood Stone, Quantum of Solace, Avatar, BlackSite, Operation Flashpoint: Dragon Rising, The Club, Stuntman: Ignition, Shaun White Skateboarding and Snowboarding, Battle for the Pacific
+- **More community servers:** Blur, DJ Hero 1 and 2, five Transformers games, Burnout Paradise, Driver: San Francisco, Ratchet & Clank Collection, Medal of Honor, WWE 2K14, Fuel, Need for Speed: Carbon
+- **Groups with their own setup guides:** ModNation Racers Revival, Refresh (LittleBigPlanet), Destination Home (PlayStation Home)
+- **In testing (follow them to get a bell when they go live):** MAG, Metal Gear Online 2. Eleven more only work on the PC emulator for now: Battlefield: Bad Company 2, Skate 3, Demon's Souls, Modern Warfare 2, NHL 14 and others.
+- **Still on official servers:** GTA IV, Ridge Racer 7, God of War: Ascension, Tekken 6, Sonic & SEGA All-Stars Racing and more
+
+### Improved
+
+- **Search Play Online.** Press SELECT on the Games tab and type a game or a group name ("resistance", "rewired").
+- **Bigger list.** Play Online holds up to 200 games now (it was 64).
+
+### Fixed
+
+- **Global Chat:** when you scrolled up, pictures and GIFs hung over the text box. They're cut off cleanly at the edge of the chat now. Messages had the same problem and is fixed too.
+
+### Heads-up
+
+Revival servers are run by fan groups, not Sony. The new entries come from the groups' public lists and say "check steps" until staff confirm them. If a game doesn't connect, tap **It's broken** on its page so everyone knows.
+
+### For staff
+
+- **New games are added automatically, and your edits are kept.** Missing games are added, and games you never edited are updated with their group and DNS. Anything you've changed stays exactly as you left it.
+- **Players following a revival get a bell when it goes live.** For example, followers of Resistance 2 are told when the update installs.
+- **Confirm steps as you check each game** (Staff site → Play Online → Edit → "steps checked"). Hide anything you don't want listed.
+
+---
+
+## CELL 1.0.6 Patch Notes: Messages
+
+**CELL: The ONLY PS3 Social Media!** now has private messages.
+
+### New: Messages
+
+- **A Messages tab** in the left menu, right under Notifications. A badge shows how many conversations have unread messages, plus any message requests.
+- **Send text, emoji, GIFs and pictures**, just like Global Chat. △ opens emoji; □ attaches a GIF or a screenshot.
+- **Message anyone, from anywhere:**
+  - △ "New message" in the Messages tab (type their username)
+  - The new **Message** button on any player's profile
+  - △ on your Friends list
+  - "Message <name>" in any post's SELECT menu
+- **Conversations look like Global Chat.** Their messages are on the left and yours are on the right. Use ↑/↓ to read back and R3 to see a picture full screen.
+- **New message alerts.** A pop-up tells you when a message arrives, unless you're already reading that conversation.
+
+### Message requests
+
+- **Friends land straight in your Messages.** Everyone else lands in **Requests** (switch with L1/R1), so you decide who you talk to.
+- **□ accepts** a request, or you can just reply. **SELECT declines**, and a declined player can't message you again unless you write to them first.
+- **Anti-spam:** until you accept, a stranger can send you at most 3 messages, and nobody can start conversations with more than 10 strangers an hour.
+- **□ in Messages deletes a conversation** from your list. A new message brings it back.
+
+### Safety
+
+- **SELECT on any message to report it.** Staff review every report.
+- **The Rules & Terms now say** that staff can see private messages to keep everyone safe. Be kind, and never share personal information.
+
+### Fixed
+
+- **If Cell's saved sign-in stops working,** Cell now looks up your account on this PS3 before sending you to sign-up.
+
+### For staff
+
+- **Staff site → Direct messages:**
+  - Every conversation, searchable by message text or player.
+  - Open any conversation to read it in full; reported messages are outlined in red.
+  - Remove or restore single messages.
+  - A **Reports** queue for messages players report or the word filter catches: Resolve, Dismiss, or jump to the player to warn, mute or ban.
+- **Opening a conversation is recorded in the audit log** ("Read DMs"), so there's a record of who looked at what.
+- **If you've customised your Rules,** add a line saying staff can see private messages. Only the default Rules were updated automatically.
+
+---
+
+## CELL 1.0.5 Patch Notes
+
+**CELL: The ONLY PS3 Social Media!** This update rolls up everything from today: faster pictures, full news stories, accounts that survive a reinstall, the official Discord, and a new RGB background.
+
+### New
+
+- **RGB flow background.** Settings → Colours & background, then L1/R1. The background glides slowly through the whole rainbow and across the screen. It stays dark enough to read on, like the other gradients.
+- **Join the official Discord.** There's a QR code card at the top of your Feed and a bigger one in Settings → Join the official Discord. Point your phone's camera at it and tap the link.
+- **Full news stories.** Opening a story in News now shows the whole article (scroll with the D-pad), not just the headline. Menus, ads and cookie pop-ups are stripped out. List cards show the first few lines.
+
+### Improved
+
+- **Pictures load almost instantly.**
+  - Box art, screenshots, GIFs, profile pictures and news images are saved on your PS3's hard drive, so they show straight away next time, even after a restart.
+  - Cell downloads three pictures at once instead of one.
+  - Pictures start loading before you scroll to them: the Feed, Global Chat, profiles, game pages, your library, Play Online and News.
+  - The server fetches a game's box art the moment you look at it, instead of waiting in line.
+- **Your account survives deleting Cell.**
+  - Deleting Cell from the XMB used to log you out for good, so reinstalling meant making a new account. Now Cell remembers you two ways: a backup copy on the PS3 that a reinstall picks right up, and a link between your account and your console on the server.
+  - Even after a formatted or new hard drive, starting Cell says **"Welcome back, <name>: your account is restored."**
+  - Your console is identified by a scrambled code; your PSID itself never leaves the PS3.
+  - Existing accounts get linked the first time you open 1.0.5.
+
+### Fixed
+
+- **The app and the server always match now.** Mismatched versions were causing problems. From now on, when a new release is out, Cell shows an "Update to Cell X" screen with a Download button. Your account, posts and friends stay safe on the server.
+  - **Heads-up:** older versions of Cell can't show this screen. If you're on an older version, accept the update offer when Cell starts (or install 1.0.5 from Package Manager). Every update after this one arrives automatically.
+
+### For staff
+
+- **Updates → Release sync card.**
+  - Shows the server version next to the PS3 app version, marked **In sync** or **Out of sync**.
+  - A switch decides whether older PS3s *must* update.
+  - A chart shows which Cell versions players used in the last 24 hours.
+  - Publishing a PKG whose number doesn't match the server asks you to confirm first.
+- **Discord → "Official Discord on the PS3":** paste your invite link here to turn on the QR codes. Only Discord invite links are accepted. Set the invite to never expire.
+- **Console bans got stronger.** Banning a console now bans the real console, so deleting and reinstalling Cell can't dodge it.
+
+### Housekeeping
+
+- Cell is proprietary, closed-source software: © 2026 Dehz, all rights reserved. The license is in the package, and Settings shows "© 2026 Dehz".
+
+---
