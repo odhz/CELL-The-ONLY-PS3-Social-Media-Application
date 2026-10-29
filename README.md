@@ -6,17 +6,17 @@ This is the official page for Cell. **Download Cell only from the [Releases](../
 
 > Cell is closed-source software by **Dehz**. This repository holds the official downloads, patch notes and license. The source code isn't published.
 
-![The Cell feed on a PS3](screenshots/feed.jpg)
+![The Cell feed on a PS3](screenshots/cell-feed.jpg)
 
 ## Screenshots
 
 | | |
 |:-:|:-:|
-| ![Play Online: revived PS3 games with DNS steps](screenshots/play-online.jpg) | ![Profile with badges and banner](screenshots/profile.jpg) |
+| ![Play Online: revived PS3 games with DNS steps](screenshots/cell-play-online.jpg) | ![Profile with badges and banner](screenshots/cell-profile.jpg) |
 | **Play Online:** 90+ revived games, with setup steps for each | **Profiles:** banners, badges, bios and your games |
-| ![Global Chat](screenshots/global-chat.jpg) | ![My games library](screenshots/my-games.jpg) |
+| ![Global Chat](screenshots/cell-global-chat.jpg) | ![My games library](screenshots/cell-my-games.jpg) |
 | **Global Chat:** text, emoji and GIFs with everyone on Cell | **Games:** your library, and who on Cell owns the same games |
-| ![PS3 News](screenshots/news.jpg) | |
+| ![PS3 News](screenshots/cell-news.jpg) | |
 | **News:** PS3 homebrew and revival news, readable in-app | |
 
 ---
