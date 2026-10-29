@@ -55,7 +55,7 @@ Cell tells you when a new version is out and can download it for you. If you mis
 - **Friends, Find players, Notifications and News**, plus 30 colours and animated backgrounds.
 - **Safety:** reporting, blocking, and staff moderation.
 
-See **[CHANGELOG.md](CHANGELOG.md)** for everything that's changed in each version.
+See the **[full feature list](FEATURES.md)**, and **[CHANGELOG.md](CHANGELOG.md)** for everything that's changed in each version.
 
 ---
 
