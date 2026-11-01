@@ -1,6 +1,6 @@
 # CELL Features
 
-**CELL: The ONLY PS3 Social Media Application.** Everything CELL can do as of version 1.1.4.
+**CELL: The ONLY PS3 Social Media Application.** Everything CELL can do as of version 1.1.5.
 
 ## Your account
 - **Claim a unique username.** Only one person can have each name. You can also show your PSN ID on your profile, or keep it hidden.
@@ -17,6 +17,7 @@
 - **Console tag:** profiles show which console a player is on.
 - **Your wall:** friends can post on it, and you choose who's allowed: everyone, friends only or nobody.
 - **Stats:** GGs received, posts, followers, following, friends and games.
+- **Socials:** show your YouTube, Twitch, X, Instagram, TikTok, Bluesky, Reddit, Kick and Discord. Others scan a QR code to open them on their phone. You choose who sees them.
 
 ## Feed
 - **Post text, screenshots and GIFs.**
@@ -61,6 +62,8 @@
 - **PS3 homebrew, revival and scene news** from around the web, in one place.
 - **Read full articles right on your PS3,** with ads and clutter stripped out.
 - **A Revivals tab** for online-revival news.
+- **Scan to read:** every story has a QR code to open the full article on your phone.
+- **PS3 and PS Vita stories from Brewology.**
 
 ## Safety
 - **Block players.** It works both ways: you won't see each other anywhere on CELL, and they aren't told.
@@ -68,10 +71,12 @@
 - **Active moderation** with a word filter, mutes and bans.
 - **Public bans:** a red bar on a banned player's profile shows how long they're banned and why. Banned players show as offline.
 - **Clear rules,** shown in the app.
+- **Send feedback or an idea** to the CELL team straight from Settings.
 
 ## Made for the PS3
 - **6 languages:** English, Spanish, Portuguese, French, German and Italian. CELL follows your PS3's language, or pick one in Settings.
 - **Full controller navigation,** with button hints on every screen.
+- **USB mouse and keyboard:** point and click anything, scroll with the wheel, or use the arrow keys and Enter.
 - **30 accent colours and animated backgrounds,** including an RGB flow.
 - **Fast pictures:** images are saved on your hard drive, so they load instantly next time.
 - **Join the official Discord** by scanning a QR code with your phone.
