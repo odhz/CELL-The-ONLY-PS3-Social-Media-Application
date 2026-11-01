@@ -56,7 +56,7 @@ CELL tells you when a new version is out and can download it for you. If you mis
 - **Play Online:** 90+ PS3 games kept alive by fan revival servers. Each has DNS steps, "It worked / It's broken" reports and game nights.
 - **Friends, Find players, Notifications and News**, plus 30 colours and animated backgrounds.
 - **6 languages:** English, Spanish, Portuguese, French, German and Italian, picked from your PS3's language.
-- **USB mouse and keyboard**, **socials on profiles** with QR codes, and **scan-to-read QR codes** on news stories.
+- **USB mouse and keyboard**, **socials on profiles** with QR codes, **scan-to-read QR codes** on news stories, and a **CELL Player role** when you link your Discord.
 - **Safety:** reporting, blocking, staff moderation and public bans.
 
 See the **[full feature list](FEATURES.md)**, and **[CHANGELOG.md](CHANGELOG.md)** for everything that's changed in each version.

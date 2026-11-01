@@ -80,6 +80,8 @@
 - **30 accent colours and animated backgrounds,** including an RGB flow.
 - **Fast pictures:** images are saved on your hard drive, so they load instantly next time.
 - **Join the official Discord** by scanning a QR code with your phone.
+- **Link your Discord** to get the CELL Player role in the CELL Discord.
+- **Check connection:** if CELL won't connect, it shows which part isn't working and what to do.
 - **A fresh look on the XMB:** a transparent CELL thumbnail, and a background that changes every time you start CELL.
 - **Works on CFW and PS3HEN.**
 

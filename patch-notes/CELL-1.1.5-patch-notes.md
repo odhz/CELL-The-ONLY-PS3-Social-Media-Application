@@ -1,4 +1,4 @@
-# CELL 1.1.5 Patch Notes: mouse and keyboard, socials, QR codes in News and feedback
+# CELL 1.1.5 Patch Notes: mouse and keyboard, socials, Discord link, QR codes in News and feedback
 
 ## New
 
@@ -22,6 +22,15 @@
 - **Brewology news.** PS3 and PS Vita stories from Brewology now show in News (shared with Brewology's permission).
 - **See how big CELL is.** The top of the Feed shows how many players are on CELL in total.
 - **Send feedback or an idea.** New in **Settings**: write anything to the CELL team, whether it's an idea, a bug or a thank-you. The team reads every one and may send you a thank-you back.
+- **Link your Discord.** New in **Settings → Link Discord**: CELL shows a 6-letter code. Type **/link** and the code in the CELL Discord and you get the **CELL Player** role, so everyone there knows it's you.
+  - The code works once and lasts 15 minutes. Press ✕ for a new one.
+  - Press □ to unlink. That removes the role.
+- **Check connection.** New in **Settings**: if CELL won't connect or sign-ups fail, it checks each part and shows a ✓ or ✗ with what to do:
+  - your PS3's network (IP and DNS)
+  - finding CELL's server, and how fast it answers
+  - whether the server is running and sign-ups are open
+  - your account, and whether a newer CELL is out
+  - It also warns you if your PS3 is still using a Play Online revival DNS.
 
 ## Improved
 
@@ -46,6 +55,12 @@
 
 ## For staff
 
+- **Discord: CELL Player role.**
+  - Players who link get the role automatically. You can see a member's CELL name without asking: right-click them → **Apps → CELL profile**.
+  - In every staff command you can **@ a linked member** instead of typing their CELL name.
+  - A ban takes the role away, and an unban gives it back.
+  - **Set it up:** Staff site → **Discord**: paste the role's ID into **CELL Player role**. In Discord, drag the bot's role above it. Open **Add Cell bot to your server** again (it now asks for Manage Roles), then press **Register /cell commands**.
+- **/status in Discord.** Anyone can type **/status** to see whether CELL is up: response time, sign-ups, players online and any Play Online servers that are down. There's also a status page anyone can open on a phone: **your-server/status**.
 - **Feedback & ideas** page on the Staff site.
   - Everything players send, with their CELL version and language.
   - Mark each one **Planned**, **Done** or **Closed**, and **Thank them** with a message that pops up in their app.
