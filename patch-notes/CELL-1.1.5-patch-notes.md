@@ -35,7 +35,7 @@
 - **Auto-translate.** Posts, comments, Global Chat and private messages now show in your language, so players from every country can talk to each other.
   - Translated text says **"Translated from Spanish"** (or whichever language) underneath. Press **SELECT** on it to **see the original**, and again to go back.
   - Your own posts and messages are never changed.
-  - It's on by default. Turn it off in **Settings → Translate posts and chat**, which also shows how much of this month's translation allowance is used.
+  - It's on by default. Turn it off in **Settings → Translate posts and chat**, which also shows how much of today's free translations are used.
 - **Accessibility.** New in **Settings → Accessibility**, so everyone can enjoy CELL:
   - **Text size:** Normal, Large or Extra large for posts, comments, Global Chat, Messages and News stories.
   - **High contrast:** black background, white text and a thick yellow outline on whatever is selected.
@@ -79,10 +79,12 @@
   - **Set it up:** Staff site → **Discord**: paste the role's ID into **CELL Player role**. In Discord, drag the bot's role above it. Open **Add Cell bot to your server** again (it now asks for Manage Roles), then press **Register /cell commands**.
 - **/status in Discord.** Anyone can type **/status** to see whether CELL is up: response time, sign-ups, players online and any Play Online servers that are down. There's also a status page anyone can open on a phone: **your-server/status**.
 - **Auto-translate for players** on the **Announcements** page:
-  - Add a free **Microsoft Azure Translator** key (2 million characters a month on the free plan).
-  - Set a **monthly limit** (1,900,000 to start, safely inside the free plan). When it's reached, CELL stops translating until the 1st, so there's never a surprise bill. The page shows how much is used and when it resets.
-  - Each text is translated once per language and remembered, so the allowance goes a long way.
-  - The staff **Translate** links use the same key when there's no DeepL key.
+  - Free and works with **no account or key** (MyMemory). Add any email address you use to raise it from 5,000 to 50,000 characters a day; there's no sign-up or confirmation.
+  - Each text is translated once per language and remembered, so the daily amount goes a long way. When it runs out, players see the original text until midnight (UTC), so it never costs anything.
+  - The page shows today's and this month's use, with a **monthly limit** you can set.
+  - Optional: add a Microsoft Azure Translator key for better quality.
+  - The staff **Translate** links use it too.
+- **Donations moved to Buy Me a Coffee** (buymeacoffee.com/officialcell). The PS3's **Support Cell** shows the new link. Add a Buy Me a Coffee webhook on the **Donations** page and donations show up there by themselves, matched to the player's CELL username in the note.
 - **Picture descriptions** show under each picture on the **Media** page.
 - **Read aloud's voice** runs on your server (espeak-ng: free, offline, installed with the update). If it's missing, the Overview page tells you how to add it.
 - **Feedback & ideas** page on the Staff site.
