@@ -35,6 +35,7 @@
   - whether the server is running and sign-ups are open
   - your account, and whether a newer CELL is out
   - It also warns you if your PS3 is still using a Play Online revival DNS.
+- **One download for everyone.** CELL-1.1.5.pkg works on both CFW and PS3HEN. There's no separate HEN file any more.
 
 ### Improved
 
