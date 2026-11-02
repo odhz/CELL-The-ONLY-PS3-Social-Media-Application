@@ -44,6 +44,7 @@
   - **Read aloud:** CELL speaks whatever you move to through your TV, in your language. Press **L3** (or **F2** on a keyboard) to hear it again. Choose Slow, Normal, Fast or Faster.
   - **Flash the screen** and **vibrate the controller** (DualShock 3) when a message or notification arrives.
   - **Pop-ups stay on screen** for 3, 6 or 10 seconds, or until you close them.
+- **10 new animated backgrounds** in **Settings → Colours & background** (L1 / R1): XMB waves, Aurora lights, Starfield, Lava lamp, Synthwave, Rising embers, Deep ocean, Day cycle, Breathing glow and Snowfall. They all stay dark behind text and hold still when Reduce motion is on.
 - **Picture descriptions.** When you post a screenshot, press **SELECT** to describe it for players who can't see it. The description shows on the picture, and Read aloud reads it.
 
 ## Improved

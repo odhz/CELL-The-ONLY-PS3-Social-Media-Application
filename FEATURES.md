@@ -88,7 +88,7 @@
 - **6 languages:** English, Spanish, Portuguese, French, German and Italian. CELL follows your PS3's language, or pick one in Settings.
 - **Full controller navigation,** with button hints on every screen.
 - **USB mouse and keyboard:** point and click anything, scroll with the wheel, or use the arrow keys and Enter.
-- **30 accent colours and animated backgrounds,** including an RGB flow.
+- **30 accent colours and animated backgrounds,** including RGB flow, XMB waves, Starfield, Synthwave and Snowfall.
 - **Fast pictures:** images are saved on your hard drive, so they load instantly next time.
 - **Join the official Discord** by scanning a QR code with your phone.
 - **Link your Discord** to get the CELL Player role in the CELL Discord.
