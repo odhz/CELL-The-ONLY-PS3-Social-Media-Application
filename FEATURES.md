@@ -73,6 +73,9 @@
 - **Clear rules,** shown in the app.
 - **Send feedback or an idea** to the CELL team straight from Settings.
 
+## Talk to everyone
+- **Auto-translate:** posts, comments, Global Chat and private messages show in your language, with the original one button away.
+
 ## Accessibility
 - **Text size:** Normal, Large or Extra large for posts, comments, chat, messages and news.
 - **High contrast** and **colour-blind friendly** colours.
