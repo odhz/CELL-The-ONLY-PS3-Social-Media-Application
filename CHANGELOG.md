@@ -74,6 +74,7 @@
   - Long pages scroll with the D-pad, so you can read every step and tip before reaching the buttons.
 - "3 min ago", "2 h ago" and "just now" are now translated in every language.
 - **The Revival Dev badge is now PS3 Developer,** for anyone who makes PS3 homebrew, apps, mods or revival servers. Everyone who had it keeps it.
+- **New Moderator badge:** an orange gavel, shown as **MOD** in chat and on posts. Only the owner can give it. A player with it ranks as a moderator, so other moderators can't act on them. The Admin badge is now described as the admin team.
 
 ### For staff
 
