@@ -13,7 +13,7 @@
 - **Profile pictures:** choose a ready-made one, use your own photo, or use an **animated GIF** that plays everywhere your picture shows.
 - **Banners, bios and "Now playing"** to show what you're into.
 - **Your game library** on your profile, so people can see what you play.
-- **Badges:** Owner, Admin, Donator, Promoter, Beta-Tester, Creator, Revival Dev and Bug Hunter, each with its own icon. If you have more than one, pick which shows next to your name.
+- **Badges:** Owner, Admin, Donator, Promoter, Beta-Tester, Creator, PS3 Developer and Bug Hunter, each with its own icon. If you have more than one, pick which shows next to your name.
 - **Console tag:** profiles show which console a player is on.
 - **Your wall:** friends can post on it, and you choose who's allowed: everyone, friends only or nobody.
 - **Stats:** GGs received, posts, followers, following, friends and games.

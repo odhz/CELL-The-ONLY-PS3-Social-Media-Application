@@ -68,6 +68,7 @@
     - **Demon's Souls** and **ModNation Racers** now show a DNS that works on a real PS3.
   - Long pages scroll with the D-pad, so you can read every step and tip before reaching the buttons.
 - "3 min ago", "2 h ago" and "just now" are now translated in every language.
+- **The Revival Dev badge is now PS3 Developer,** for anyone who makes PS3 homebrew, apps, mods or revival servers. Everyone who had it keeps it.
 
 ### For staff
 
