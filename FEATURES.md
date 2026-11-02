@@ -73,6 +73,14 @@
 - **Clear rules,** shown in the app.
 - **Send feedback or an idea** to the CELL team straight from Settings.
 
+## Accessibility
+- **Text size:** Normal, Large or Extra large for posts, comments, chat, messages and news.
+- **High contrast** and **colour-blind friendly** colours.
+- **Reduce motion:** still backgrounds, no sparkles, GIFs stay still.
+- **Read aloud:** CELL speaks what you select through your TV, in your language.
+- **Picture descriptions** on screenshots, for players who can't see them.
+- **Alerts you can see and feel:** a screen flash and controller rumble for new messages, and pop-ups that stay as long as you need.
+
 ## Made for the PS3
 - **6 languages:** English, Spanish, Portuguese, French, German and Italian. CELL follows your PS3's language, or pick one in Settings.
 - **Full controller navigation,** with button hints on every screen.
@@ -81,7 +89,7 @@
 - **Fast pictures:** images are saved on your hard drive, so they load instantly next time.
 - **Join the official Discord** by scanning a QR code with your phone.
 - **Link your Discord** to get the CELL Player role in the CELL Discord.
-- **Check connection:** if CELL won't connect, it shows which part isn't working and what to do.
+- **Check connection:** if CELL won't connect, it shows which part isn't working and what to do. If your DNS can't find CELL, it finds it another way.
 - **A fresh look on the XMB:** a transparent CELL thumbnail, and a background that changes every time you start CELL.
 - **Works on CFW and PS3HEN.**
 

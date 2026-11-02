@@ -1,4 +1,4 @@
-# CELL 1.1.5 Patch Notes: mouse and keyboard, socials, Discord link, QR codes in News and feedback
+# CELL 1.1.5 Patch Notes: accessibility, mouse and keyboard, socials, Discord link and QR codes in News
 
 ## New
 
@@ -32,9 +32,20 @@
   - your account, and whether a newer CELL is out
   - It also warns you if your PS3 is still using a Play Online revival DNS.
 - **One download for everyone.** CELL-1.1.5.pkg works on both CFW and PS3HEN. There's no separate HEN file any more.
+- **Accessibility.** New in **Settings → Accessibility**, so everyone can enjoy CELL:
+  - **Text size:** Normal, Large or Extra large for posts, comments, Global Chat, Messages and News stories.
+  - **High contrast:** black background, white text and a thick yellow outline on whatever is selected.
+  - **Colour-blind friendly:** blue and orange instead of green and red.
+  - **Reduce motion:** still backgrounds, no sparkles on names, and GIFs stay still.
+  - **Read aloud:** CELL speaks whatever you move to through your TV, in your language. Press **L3** (or **F2** on a keyboard) to hear it again. Choose Slow, Normal, Fast or Faster.
+  - **Flash the screen** and **vibrate the controller** (DualShock 3) when a message or notification arrives.
+  - **Pop-ups stay on screen** for 3, 6 or 10 seconds, or until you close them.
+- **Picture descriptions.** When you post a screenshot, press **SELECT** to describe it for players who can't see it. The description shows on the picture, and Read aloud reads it.
 
 ## Improved
 
+- **"Can't reach CELL" now tells you why.** It checks your connection by itself and says whether your PS3 is offline, can't find the CELL server (DNS), or is being blocked, with how to fix it. **△ Check connection** shows the full checklist.
+- **Gets past DNS that won't find CELL.** If your internet provider's DNS can't find the CELL server, CELL now asks Cloudflare (1.1.1.1) and Google (8.8.8.8) directly, so you can still sign in without changing any settings.
 - **Play Online: every game's connection steps were checked and rewritten.**
   - Each game page now has the complete steps: Custom setup, IP Automatic, DNS Manual with a public secondary DNS (1.1.1.1), MTU Automatic, Proxy Do Not Use, **UPnP Enable**, and Test Connection. The old steps skipped some of these.
   - **"Not connecting?"** tips on every revival:
@@ -62,6 +73,8 @@
   - A ban takes the role away, and an unban gives it back.
   - **Set it up:** Staff site → **Discord**: paste the role's ID into **CELL Player role**. In Discord, drag the bot's role above it. Open **Add Cell bot to your server** again (it now asks for Manage Roles), then press **Register /cell commands**.
 - **/status in Discord.** Anyone can type **/status** to see whether CELL is up: response time, sign-ups, players online and any Play Online servers that are down. There's also a status page anyone can open on a phone: **your-server/status**.
+- **Picture descriptions** show under each picture on the **Media** page.
+- **Read aloud's voice** runs on your server (espeak-ng: free, offline, installed with the update). If it's missing, the Overview page tells you how to add it.
 - **Feedback & ideas** page on the Staff site.
   - Everything players send, with their CELL version and language.
   - Mark each one **Planned**, **Done** or **Closed**, and **Thank them** with a message that pops up in their app.
