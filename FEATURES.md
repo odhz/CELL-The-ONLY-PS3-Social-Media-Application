@@ -13,7 +13,7 @@
 - **Profile pictures:** choose a ready-made one, use your own photo, or use an **animated GIF** that plays everywhere your picture shows.
 - **Banners, bios and "Now playing"** to show what you're into.
 - **Your game library** on your profile, so people can see what you play.
-- **Badges:** Owner, Admin, Donator, Promoter, Beta-Tester, Creator, PS3 Developer and Bug Hunter, each with its own icon. If you have more than one, pick which shows next to your name.
+- **Badges:** Owner, Admin, Moderator, Donator, Promoter, Beta-Tester, Creator, PS3 Developer and Bug Hunter, each with its own icon, shown from the most important on the left. If you have more than one, pick which shows next to your name.
 - **Console tag:** profiles show which console a player is on.
 - **Your wall:** friends can post on it, and you choose who's allowed: everyone, friends only or nobody.
 - **Stats:** GGs received, posts, followers, following, friends and games.
@@ -53,7 +53,7 @@
 - **See how many players** on CELL own each game.
 
 ## Friends and finding players
-- **Friends and followers**, with an online / offline list on the Feed.
+- **Friends and followers**, with an online / offline list on the Feed. Everyone follows CELL's creator, Dehz, so CELL news reaches every player.
 - **See how many players are on CELL** right on the Feed.
 - **Find players** by name.
 - **Notifications** for GGs, comments, mentions, friend requests, wall posts and messages.
@@ -74,6 +74,7 @@
 - **Send feedback or an idea** to the CELL team straight from Settings.
 
 ## Talk to everyone
+- **Clear warnings:** a warning from the moderators fills the screen in red, stays up 5 seconds, and closes only after you tick that you've read it.
 - **Auto-translate:** posts, comments, Global Chat and private messages show in your language, with the original one button away.
 
 ## Accessibility
