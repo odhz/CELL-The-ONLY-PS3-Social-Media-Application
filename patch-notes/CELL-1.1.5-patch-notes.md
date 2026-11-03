@@ -46,9 +46,14 @@
   - **Pop-ups stay on screen** for 3, 6 or 10 seconds, or until you close them.
 - **10 new animated backgrounds** in **Settings → Colours & background** (L1 / R1): XMB waves, Aurora lights, Starfield, Lava lamp, Synthwave, Rising embers, Deep ocean, Day cycle, Breathing glow and Snowfall. They all stay dark behind text and hold still when Reduce motion is on.
 - **Picture descriptions.** When you post a screenshot, press **SELECT** to describe it for players who can't see it. The description shows on the picture, and Read aloud reads it.
+- **Warnings are impossible to miss.** A warning from the moderators now fills the screen in red with a big **WARNING**. It stays up for 5 seconds so you can read it, then you tick **I have read this warning** and press **Close**.
+- **Everyone follows Dehz.** New players follow CELL's creator when they sign up, and everyone already on CELL follows him once after this update, so CELL news reaches everyone. You can unfollow like anyone else.
 
 ## Improved
 
+- **Animated backgrounds are much lighter.** They used to drop CELL from 60 to 15-30 frames a second. They now work out their colours far less often and with fewer moving dots, and look the same.
+- **Badges on a profile read left to right from the most important:** Owner on the far left, then Admin, Moderator, Donator and so on.
+- **"CELL" is spelled the same everywhere,** including warnings, ban messages, updates and the Staff site.
 - **"Can't reach CELL" now tells you why.** It checks your connection by itself and says whether your PS3 is offline, can't find the CELL server (DNS), or is being blocked, with how to fix it. **△ Check connection** shows the full checklist.
 - **Gets past DNS that won't find CELL.** If your internet provider's DNS can't find the CELL server, CELL now asks Cloudflare (1.1.1.1) and Google (8.8.8.8) directly, so you can still sign in without changing any settings.
 - **Play Online: every game's connection steps were checked and rewritten.**
@@ -74,11 +79,13 @@
 
 ## For staff
 
+- **Play Online: fewer false "DNS not answering" alerts.** Many revival DNS servers only answer for their own game and say "not found" for anything else. CELL now counts any reply as the server being up; only silence counts as down.
+- **News feed errors say who can fix them.** When a site's Cloudflare protection blocks CELL's server (Brewology and PSX-Place right now), the News feed page says so, so you know to ask that site to allow CELL's server.
 - **Discord: CELL Player role.**
   - Players who link get the role automatically. You can see a member's CELL name without asking: right-click them → **Apps → CELL profile**.
   - In every staff command you can **@ a linked member** instead of typing their CELL name.
   - A ban takes the role away, and an unban gives it back.
-  - **Set it up:** Staff site → **Discord**: paste the role's ID into **CELL Player role**. In Discord, drag the bot's role above it. Open **Add Cell bot to your server** again (it now asks for Manage Roles), then press **Register /cell commands**.
+  - **Set it up:** Staff site → **Discord**: paste the role's ID into **CELL Player role**. In Discord, drag the bot's role above it. Open **Add CELL bot to your server** again (it now asks for Manage Roles), then press **Register /cell commands**.
 - **/status in Discord.** Anyone can type **/status** to see whether CELL is up: response time, sign-ups, players online and any Play Online servers that are down. There's also a status page anyone can open on a phone: **your-server/status**.
 - **Auto-translate for players** on the **Announcements** page:
   - Free and works with **no account or key** (MyMemory). Add any email address you use to raise it from 5,000 to 50,000 characters a day; there's no sign-up or confirmation.
@@ -86,7 +93,7 @@
   - The page shows today's and this month's use, with a **monthly limit** you can set.
   - Optional: add a Microsoft Azure Translator key for better quality.
   - The staff **Translate** links use it too.
-- **Donations moved to Buy Me a Coffee** (buymeacoffee.com/officialcell). The PS3's **Support Cell** shows the new link. Add a Buy Me a Coffee webhook on the **Donations** page and donations show up there by themselves, matched to the player's CELL username in the note.
+- **Donations moved to Buy Me a Coffee** (buymeacoffee.com/officialcell). The PS3's **Support CELL** shows the new link. Add a Buy Me a Coffee webhook on the **Donations** page and donations show up there by themselves, matched to the player's CELL username in the note.
 - **Picture descriptions** show under each picture on the **Media** page.
 - **Read aloud's voice** runs on your server (espeak-ng: free, offline, installed with the update). If it's missing, the Overview page tells you how to add it.
 - **Feedback & ideas** page on the Staff site.
