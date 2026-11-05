@@ -1,9 +1,10 @@
 # CELL Features
 
-**CELL: The ONLY PS3 Social Media Application.** Everything CELL can do as of version 1.1.5.
+**CELL: The ONLY PS3 Social Media Application.** Everything CELL can do as of version 1.1.5 Hotfix 1 (1.1.5.1).
 
 ## Your account
 - **Claim a unique username.** Only one person can have each name. You can also show your PSN ID on your profile, or keep it hidden.
+- **Change your username** in Settings once every 30 days (changing only capitals is always free). Names with racism, slurs or hate aren't allowed.
 - **No sign-in hassle.** Pick a name once and CELL remembers you.
 - **Your account survives a reinstall.** It's backed up on your PS3 and linked to your console, so deleting CELL, or even swapping the hard drive, doesn't lose it.
 - **Lost access? Get it back.** CELL staff can give you a one-time recovery code: choose "I already have an account" and type it in.
@@ -23,8 +24,9 @@
 - **Post text, screenshots and GIFs.**
 - **Four feeds:** Everyone, Following, My games and Mentions. Switch with L1/R1.
 - **GG** (like) and **comment** on posts, and **@mention** other players.
+- **GG comments** and **reply** to them with an emoji or a GIF.
 - **1,384 emoji** in nine tabs (Popular, Faces, People, Animals, Food, Travel, Activities, Objects, Symbols), each with a shortcode you can type, like `:fire:` or `:pizza:`.
-- **GIF search** built in.
+- **GIF search** built in, with six **CELL GIFs** always first (GG, Welcome to CELL, Let's play!, Online tonight?, LOL and the CELL logo).
 - **Use your own pictures and GIFs** from `/dev_hdd0/photo` (send them over FTP) or a USB drive.
 - **View pictures full screen** with R3.
 
@@ -37,6 +39,7 @@
 ## Global Chat
 - **One chat room for everyone on CELL,** with GIFs, pictures and emoji.
 - **See who's chatting** and who's typing.
+- **A badge on the side menu** counts new messages since you last looked (up to 99+).
 
 ## Play Online: revived PS3 games
 - **90+ PS3 games** that fan groups have brought back online, including PS Rewired, PSONE, Warhawk Revived, PS Reborn and more.
@@ -75,7 +78,7 @@
 
 ## Talk to everyone
 - **Clear warnings:** a warning from the moderators fills the screen in red, stays up 5 seconds, and closes only after you tick that you've read it.
-- **Auto-translate:** posts, comments, Global Chat and private messages show in your language, with the original one button away.
+- **Auto-translate:** posts, comments, Global Chat and private messages show in your language, with the original one button away. It catches short messages and chat slang too, and reads Polish, Czech, Turkish, Russian, Ukrainian and more. PS3s set to Dutch, Polish, Russian, Turkish, Swedish, Danish, Finnish or Norwegian get posts in that language.
 
 ## Accessibility
 - **Text size:** Normal, Large or Extra large for posts, comments, chat, messages and news.
@@ -84,6 +87,11 @@
 - **Read aloud:** CELL speaks what you select through your TV, in your language.
 - **Picture descriptions** on screenshots, for players who can't see them.
 - **Alerts you can see and feel:** a screen flash and controller rumble for new messages, and pop-ups that stay as long as you need.
+
+## Sound
+- **Background music:** a calm, quiet loop made for CELL.
+- **Menu sounds:** soft clicks as you move around.
+- Each has its own on/off switch in Settings, and the music dips while Read aloud is talking.
 
 ## Made for the PS3
 - **6 languages:** English, Spanish, Portuguese, French, German and Italian. CELL follows your PS3's language, or pick one in Settings.

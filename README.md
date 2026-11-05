@@ -26,7 +26,7 @@ This is the official page for CELL. **Download CELL only from the [Releases](../
 ## Download
 
 1. Open **[Releases](../../releases/latest)** and download the PKG for your PS3:
-   - **CELL-x.y.z.pkg** works on both Custom Firmware (Evilnat, Rebug and others) and PS3HEN. Releases before 1.1.5 had separate CFW and HEN files, which were the same package.
+   - **CELL-x.y.z.pkg** works on both Custom Firmware (Evilnat, Rebug and others) and PS3HEN. Releases before 1.1.5 had separate CFW and HEN files, which were the same package. Hotfixes like 1.1.5.1 show in CELL as "1.1.5 Hotfix 1".
 2. Copy it to a USB drive, or send it to the PS3 over FTP (for example into `/dev_hdd0/packages`).
 3. On the PS3, go to **Package Manager → Install Package Files** and install it.
 4. Start **CELL** from the Game column.
@@ -35,8 +35,8 @@ This is the official page for CELL. **Download CELL only from the [Releases](../
 
 Each release lists the **SHA-256** checksum of every PKG. To check yours:
 
-- **Windows (PowerShell):** `Get-FileHash .\CELL-1.1.5.pkg -Algorithm SHA256`
-- **macOS / Linux:** `shasum -a 256 CELL-1.1.5.pkg`
+- **Windows (PowerShell):** `Get-FileHash .\CELL-1.1.5.1.pkg -Algorithm SHA256`
+- **macOS / Linux:** `shasum -a 256 CELL-1.1.5.1.pkg`
 
 If the numbers don't match the release page, delete the file and download it again from here.
 
@@ -56,7 +56,9 @@ CELL tells you when a new version is out and can download it for you. If you mis
 - **Friends, Find players, Notifications and News**, plus 30 colours and animated backgrounds.
 - **6 languages:** English, Spanish, Portuguese, French, German and Italian, picked from your PS3's language.
 - **USB mouse and keyboard**, **socials on profiles** with QR codes, **scan-to-read QR codes** on news stories, and a **CELL Player role** when you link your Discord.
-- **Auto-translate:** posts, chat and messages from players around the world show in your language.
+- **Auto-translate:** posts, comments, chat and messages from players around the world show in your language, even short messages and slang.
+- **Change your username** once every 30 days, **GG comments** and reply with emoji or GIFs, and **built-in CELL GIFs**.
+- **Background music and menu sounds**, each with its own on/off switch, and a **Global Chat badge** for new messages.
 - **Accessibility:** larger text, high contrast, colour-blind colours, reduced motion, Read aloud and picture descriptions.
 - **Safety:** reporting, blocking, staff moderation and public bans.
 
