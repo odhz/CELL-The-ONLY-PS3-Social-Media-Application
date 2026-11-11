@@ -1,6 +1,6 @@
 # CELL Features
 
-**CELL: The ONLY PS3 Social Media Application.** Everything CELL can do as of version 1.1.6 Hotfix 2 (1.1.6.2).
+**CELL: The ONLY PS3 Social Media Application.** Everything CELL can do as of version 1.1.6 Hotfix 3 (1.1.6.3).
 
 ## Your account
 - **Claim a unique username.** Only one person can have each name. You can also show your PSN ID on your profile, or keep it hidden.
@@ -8,7 +8,7 @@
 - **No sign-in hassle.** Pick a name once and CELL remembers you.
 - **Your account survives a reinstall.** It's backed up on your PS3 and linked to your console, so deleting CELL, or even swapping the hard drive, doesn't lose it.
 - **Lost access? Get it back.** CELL staff can give you a one-time recovery code: choose "I already have an account" and type it in.
-- **Automatic updates.** CELL tells you when a new version is out, then downloads and installs it by itself and restarts on the new version.
+- **Automatic updates.** CELL tells you when a new version is out and downloads it to your PS3's package folder, ready to install from Package Manager.
 
 ## Profiles
 - **Profile pictures:** choose a ready-made one, use your own photo, or use an **animated GIF** that plays everywhere your picture shows.
