@@ -11,8 +11,7 @@
   - **Tic-Tac-Toe** (best of 3), **Checkers**, **Pong** (first to 7), **Cell Division** (up to 10 players: eat the smaller cells and grow) and **Reaction Duel** (press ✕ the moment it says DRAW!).
   - **Find a match**, **challenge a friend** (they get a pop-up and press SELECT to accept), or **practise against CELL** (doesn't count).
   - Your **wins, losses and win streak** show on your profile, with the week's top players in the Arcade.
-  - **CELL Gamer badge** (a controller icon): win 50 games, then open a ticket in the CELL Discord and staff give it to you. Only 5 wins a day against the same player count.
-  - In **Checkers**, jumping is your choice: you never have to take a jump, and after a jump you can keep going or press □ to end your turn.
+  - **CELL Gamer badge** (a controller icon): win 50 games. Only 5 wins a day against the same player count.
   - Rematch with one button at the end of a game.
 - **Reply button.** In Global Chat, pick a message and press **Reply**; on a post, pick a comment and press **Reply** next to its GG. Your reply shows the message it answers just above it, and they get a notification.
 - **Time & weather.** Your local time, today's weather and the next 4 days, at the top of the Feed.
@@ -22,7 +21,6 @@
 - **Russian and Arabic.** CELL's menus now come in **Русский** and **العربية** (Settings → Language). Russian PS3s switch automatically. Arabic letters join up properly and read right to left. Posts and chat can be auto-translated into both.
 - **Predictive text.** When you type with the controller, the PS3 keyboard opens in your language with word suggestions.
 - **More music.** Four new calm tracks join the first one (5 in all). They play in a shuffled order and fade smoothly into each other.
-- **Updates install themselves.** From now on, when an update is ready, CELL downloads it, installs it by itself and restarts on the new version. No Package Manager, no extra tools. (This update, 1.1.6, still installs the usual way.)
 
 ## Improved
 
@@ -42,5 +40,5 @@
   - **Your words:** add many at once with a language. Choose *Whole word*, *Starts with* or *Anywhere*; a warning shows everyday words a rule would also catch (for example "isis" set to Anywhere catches "this is" and "crisis").
   - Each word shows its matches from the last 7 days, and **Recent filter hits** shows what's being caught. A **Test box** shows what would happen to any text.
   - Exceptions for words that must never be caught.
-- **Arcade page:** who's playing, top players, recent matches. **Ready for the CELL Gamer badge** lists players who reached 50 wins (they're told to open a Discord ticket): check their matches and press **Give badge**. **Void a match** takes back its wins and losses; **Reset stats** clears one player. Change the wins needed for CELL Gamer, or close the Arcade.
+- **Arcade page:** who's playing, top players, recent matches. **Void a match** takes back its wins and losses; **Reset stats** clears one player. Change the wins needed for CELL Gamer, or close the Arcade.
 - **Replies** show as "↪ reply to #id" on the Staff site's post and chat pages.

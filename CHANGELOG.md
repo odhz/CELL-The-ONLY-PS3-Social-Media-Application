@@ -1,6 +1,24 @@
 # CELL Changelog
 
-**CELL: The ONLY PS3 Social Media!** Newest release first. The latest version is **1.1.6**.
+**CELL: The ONLY PS3 Social Media!** Newest release first. The latest version is **1.1.6 Hotfix 1 (1.1.6.1)**.
+
+## CELL 1.1.6 Hotfix 1 (1.1.6.1) Patch Notes: updates that install themselves, Arcade fixes
+
+### New
+
+- **Updates install themselves.** From now on, when an update is ready, CELL downloads it, installs it by itself and restarts on the new version. No Package Manager, no extra tools. (This hotfix still installs the usual way.)
+- **CELL Gamer badge through Discord.** When you reach 50 Arcade wins, CELL tells you to open a ticket in the CELL Discord (pick "Account help"), and staff give you the badge. The Arcade shows when you've reached it.
+
+### Fixed
+
+- **Reply button:** it no longer covers names, times or text. On a comment it sits on its own row under the comment; in Global Chat, messages leave room for it.
+- **Checkers:** jumping is your choice now. You never have to take a jump, and after a jump you can keep going or press □ to end your turn.
+- **Cell Division:** a cell that's clearly bigger can now eat a smaller one. It used to need to be much heavier and almost fully covering it, so bigger-looking cells often couldn't eat.
+- **Pong:** paddles move smoothly at 60 fps. Your paddle follows your stick straight away instead of stepping.
+
+### For staff
+
+- **Ready for the CELL Gamer badge** on the Arcade page lists players who reached 50 wins and were told to open a Discord ticket. Check their recent matches (and "Worth a look" for win farming), then press **Give badge**.
 
 ## CELL 1.1.6 Patch Notes: video posts, the Arcade, replies, time & weather, Russian and Arabic
 
@@ -15,8 +33,7 @@
   - **Tic-Tac-Toe** (best of 3), **Checkers**, **Pong** (first to 7), **Cell Division** (up to 10 players: eat the smaller cells and grow) and **Reaction Duel** (press ✕ the moment it says DRAW!).
   - **Find a match**, **challenge a friend** (they get a pop-up and press SELECT to accept), or **practise against CELL** (doesn't count).
   - Your **wins, losses and win streak** show on your profile, with the week's top players in the Arcade.
-  - **CELL Gamer badge** (a controller icon): win 50 games, then open a ticket in the CELL Discord and staff give it to you. Only 5 wins a day against the same player count.
-  - In **Checkers**, jumping is your choice: you never have to take a jump, and after a jump you can keep going or press □ to end your turn.
+  - **CELL Gamer badge** (a controller icon): win 50 games. Only 5 wins a day against the same player count.
   - Rematch with one button at the end of a game.
 - **Reply button.** In Global Chat, pick a message and press **Reply**; on a post, pick a comment and press **Reply** next to its GG. Your reply shows the message it answers just above it, and they get a notification.
 - **Time & weather.** Your local time, today's weather and the next 4 days, at the top of the Feed.
@@ -26,7 +43,6 @@
 - **Russian and Arabic.** CELL's menus now come in **Русский** and **العربية** (Settings → Language). Russian PS3s switch automatically. Arabic letters join up properly and read right to left. Posts and chat can be auto-translated into both.
 - **Predictive text.** When you type with the controller, the PS3 keyboard opens in your language with word suggestions.
 - **More music.** Four new calm tracks join the first one (5 in all). They play in a shuffled order and fade smoothly into each other.
-- **Updates install themselves.** From now on, when an update is ready, CELL downloads it, installs it by itself and restarts on the new version. No Package Manager, no extra tools. (This update, 1.1.6, still installs the usual way.)
 
 ### Improved
 
@@ -46,7 +62,7 @@
   - **Your words:** add many at once with a language. Choose *Whole word*, *Starts with* or *Anywhere*; a warning shows everyday words a rule would also catch (for example "isis" set to Anywhere catches "this is" and "crisis").
   - Each word shows its matches from the last 7 days, and **Recent filter hits** shows what's being caught. A **Test box** shows what would happen to any text.
   - Exceptions for words that must never be caught.
-- **Arcade page:** who's playing, top players, recent matches. **Ready for the CELL Gamer badge** lists players who reached 50 wins (they're told to open a Discord ticket): check their matches and press **Give badge**. **Void a match** takes back its wins and losses; **Reset stats** clears one player. Change the wins needed for CELL Gamer, or close the Arcade.
+- **Arcade page:** who's playing, top players, recent matches. **Void a match** takes back its wins and losses; **Reset stats** clears one player. Change the wins needed for CELL Gamer, or close the Arcade.
 - **Replies** show as "↪ reply to #id" on the Staff site's post and chat pages.
 
 ## CELL 1.1.5 Hotfix 1 (1.1.5.1) Patch Notes: music, more languages, change your username, CELL GIFs and comment GGs
