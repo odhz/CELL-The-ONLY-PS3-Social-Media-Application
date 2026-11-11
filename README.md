@@ -26,7 +26,7 @@ This is the official page for CELL. **Download CELL only from the [Releases](../
 ## Download
 
 1. Open **[Releases](../../releases/latest)** and download the PKG for your PS3:
-   - **CELL-x.y.z.pkg** works on both Custom Firmware (Evilnat, Rebug and others) and PS3HEN. Releases before 1.1.5 had separate CFW and HEN files, which were the same package. Hotfixes like 1.1.5.1 show in CELL as "1.1.5 Hotfix 1". From 1.1.6 Hotfix 1, CELL installs its own updates.
+   - **CELL-x.y.z.pkg** works on both Custom Firmware (Evilnat, Rebug and others) and PS3HEN. Releases before 1.1.5 had separate CFW and HEN files, which were the same package. Hotfixes like 1.1.5.1 show in CELL as "1.1.5 Hotfix 1". From 1.1.6 Hotfix 2, CELL installs its own updates.
 2. Copy it to a USB drive, or send it to the PS3 over FTP (for example into `/dev_hdd0/packages`).
 3. On the PS3, go to **Package Manager → Install Package Files** and install it.
 4. Start **CELL** from the Game column.
@@ -35,8 +35,8 @@ This is the official page for CELL. **Download CELL only from the [Releases](../
 
 Each release lists the **SHA-256** checksum of every PKG. To check yours:
 
-- **Windows (PowerShell):** `Get-FileHash .\CELL-1.1.6.1.pkg -Algorithm SHA256`
-- **macOS / Linux:** `shasum -a 256 CELL-1.1.6.1.pkg`
+- **Windows (PowerShell):** `Get-FileHash .\CELL-1.1.6.2.pkg -Algorithm SHA256`
+- **macOS / Linux:** `shasum -a 256 CELL-1.1.6.2.pkg`
 
 If the numbers don't match the release page, delete the file and download it again from here.
 

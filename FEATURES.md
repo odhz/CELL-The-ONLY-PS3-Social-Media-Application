@@ -1,6 +1,6 @@
 # CELL Features
 
-**CELL: The ONLY PS3 Social Media Application.** Everything CELL can do as of version 1.1.6 Hotfix 1 (1.1.6.1).
+**CELL: The ONLY PS3 Social Media Application.** Everything CELL can do as of version 1.1.6 Hotfix 2 (1.1.6.2).
 
 ## Your account
 - **Claim a unique username.** Only one person can have each name. You can also show your PSN ID on your profile, or keep it hidden.
